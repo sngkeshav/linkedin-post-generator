@@ -1,0 +1,6 @@
+ftfy
+python-dotenv
+langchain
+langchain_groq
+pandas
+streamlit
